@@ -1,0 +1,14 @@
+# Bundled parser metadata for the IntentDiff language-info API.
+# Plugin code exposes this data; the host still owns trust and provenance.
+
+[plugin]
+author = IntentDiff
+plugin_version = 0.1.0
+last_updated = 2026-05-19
+
+[language.clojure]
+language_name = Clojure
+language_short_name = Clojure
+monaco_language = clojure
+default_filename = code.clj
+language_file_extensions = 
